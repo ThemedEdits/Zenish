@@ -1,4 +1,4 @@
-# Portfolio Website
+Jewellery Website
 
 ## 🔗 Live Demo
 [View it Live](https://ThemedEdits.github.io/Zenish/)
